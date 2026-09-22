@@ -1,0 +1,13 @@
+customer_id,plan,usage_hours,support_tickets,churned
+C-1001,basic,5,4,yes
+C-1002,pro,28,0,no
+C-1003,basic,9,2,yes
+C-1004,team,41,1,no
+C-1005,pro,22,1,no
+C-1006,basic,3,5,yes
+C-1007,team,36,0,no
+C-1008,pro,16,3,yes
+C-1009,basic,12,1,no
+C-1010,team,31,1,no
+C-1011,pro,8,4,yes
+C-1012,basic,18,0,no
